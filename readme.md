@@ -1,6 +1,7 @@
-# Dotnet global tool template
+# DotNET global tool template
 
-Creates a template for a dotnet global tool project.
+Implements a template for a dotnet global tool project. 
+This template captures the tool project layout from Martin Ullrich's (@dasmulli) blog post [exploring global net core tools](https://dasmulli.blog/2018/01/23/exploring-global-net-core-tools/)
 
 ```
 dotnet new -i Elemental.Tool
