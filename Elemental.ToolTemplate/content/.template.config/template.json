@@ -1,0 +1,17 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Mark Pflug",
+  "classifications": [ "Tool", "Template" ],
+  "identity": "Elemental.ToolTemplate",
+  "name": "Elemental Tool Template",
+  "shortName": "tool",
+  "symbols": {
+    "name": {
+      "type": "parameter",
+      "datatype": "text",
+      "description": "Project name",
+      "fileRename": "Project",
+      "replaces": "(Project)"
+    }
+  }
+}

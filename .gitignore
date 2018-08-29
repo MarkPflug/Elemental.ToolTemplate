@@ -7,6 +7,10 @@
 *.userosscache
 *.sln.docstates
 
+# keep those binaries out!
+*.exe
+*.dll
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 

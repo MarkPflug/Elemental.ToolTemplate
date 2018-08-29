@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.Net.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <OutputType>exe</OutputType>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>(Project)</ToolCommandName>
+    <PackageOutputPath>../nupkgs</PackageOutputPath>
+  </PropertyGroup>  
+</Project>
