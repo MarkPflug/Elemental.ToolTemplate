@@ -1,9 +1,9 @@
 ﻿{
   "$schema": "http://json.schemastore.org/template",
   "author": "Mark Pflug",
-  "classifications": [ "Tool", "Template" ],
-  "identity": "Elemental.ToolTemplate",
-  "name": "Elemental Tool Template",
+  "classifications": [ "Tool" ],
+  "identity": "Elemental.Tool",
+  "name": "Global Tool Project",
   "shortName": "tool",
   "symbols": {
     "name": {
