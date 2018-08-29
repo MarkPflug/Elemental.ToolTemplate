@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.Net.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
     <OutputType>exe</OutputType>
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>(Project)</ToolCommandName>
