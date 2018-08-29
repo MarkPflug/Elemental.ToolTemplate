@@ -3,16 +3,18 @@
   <metadata>
     <id>Elemental.Tool</id>
     <version>0.1.0</version>
+    <title>Elemental dotnet global tool project template</title>
     <authors>Mark Pflug</authors>
     <owners>Mark Pflug</owners>
     <!--<licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>-->
     <projectUrl>https://github.com/MarkPflug/Elemental.ToolTemplate</projectUrl>
     <iconUrl>https://markpflug.github.io/MarkPflug.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>dotnet global tool project template</description>
+    <description>A template for creating new dotnet global tool projects with 'dotnet new tool'.</description>
     <!--<releaseNotes>Summary of changes made in this release of the package.</releaseNotes>-->
     <copyright>Copyright 2018</copyright>
     <tags>dotnet global tool</tags>
+    <repository type="git" url="https://github.com/MarkPflug/Elemental.ToolTemplate.git"/>
     <packageTypes>
       <packageType name="Template"/>
     </packageTypes>
