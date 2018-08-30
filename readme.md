@@ -10,11 +10,11 @@ cd Greeter
 dotnet new tool
 ./Greeter/Greeter.csproj
 # implement tool in Greeter.cs:
-# add `System.Console.WriteLine($"Hello {System.Environment.UserName}");` to Main
+# add 'System.Console.WriteLine($"Hello {System.Environment.UserName}");' to Main
 dotnet pack
 dotnet tool install Greeter
 # might need to reload console to refresh environment if this is the first tool install
-# as first tool install adds `%HOME%\.dotnet\tools` to PATH.
+# as first tool install adds '%HOME%\.dotnet\tools' to PATH.
 greeter
-# outputs 'Hello MarkPflug'
+# outputs "Hello MarkPflug"
 ```
