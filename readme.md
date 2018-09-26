@@ -5,7 +5,7 @@ This template captures the tool project layout from Martin Ullrich's ([@dasmulli
 
 ```
 dotnet new -i Elemental.Tool
-md Greeter
+mkdir Greeter
 cd Greeter
 dotnet new tool
 ./Greeter/Greeter.csproj
